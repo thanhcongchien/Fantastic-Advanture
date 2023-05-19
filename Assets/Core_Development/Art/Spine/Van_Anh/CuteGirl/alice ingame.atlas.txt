@@ -1,0 +1,244 @@
+
+alice ingame.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L eye close
+  rotate: true
+  xy: 632, 748
+  size: 133, 158
+  orig: 133, 158
+  offset: 0, 0
+  index: -1
+L feet
+  rotate: true
+  xy: 1101, 959
+  size: 77, 108
+  orig: 77, 108
+  offset: 0, 0
+  index: -1
+R eye close
+  rotate: true
+  xy: 187, 2
+  size: 156, 172
+  orig: 156, 172
+  offset: 0, 0
+  index: -1
+R feet
+  rotate: true
+  xy: 525, 554
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+ban tay phai
+  rotate: false
+  xy: 446, 476
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+ban tay trai
+  rotate: true
+  xy: 465, 411
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+bung
+  rotate: true
+  xy: 1946, 1871
+  size: 152, 73
+  orig: 152, 73
+  offset: 0, 0
+  index: -1
+cang phai
+  rotate: false
+  xy: 964, 985
+  size: 135, 197
+  orig: 135, 197
+  offset: 0, 0
+  index: -1
+cang tay phai
+  rotate: false
+  xy: 1101, 1038
+  size: 111, 147
+  orig: 111, 147
+  offset: 0, 0
+  index: -1
+cang tay trai
+  rotate: false
+  xy: 792, 693
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+cang trai
+  rotate: false
+  xy: 359, 219
+  size: 104, 251
+  orig: 104, 251
+  offset: 0, 0
+  index: -1
+co
+  rotate: true
+  xy: 359, 166
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+co ao
+  rotate: false
+  xy: 1848, 1804
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+dui phai
+  rotate: false
+  xy: 632, 883
+  size: 170, 272
+  orig: 170, 272
+  offset: 0, 0
+  index: -1
+dui trai
+  rotate: false
+  xy: 187, 160
+  size: 170, 310
+  orig: 170, 310
+  offset: 0, 0
+  index: -1
+mai bang
+  rotate: false
+  xy: 2, 762
+  size: 465, 393
+  orig: 465, 393
+  offset: 0, 0
+  index: -1
+mai dai phai
+  rotate: false
+  xy: 1029, 1187
+  size: 152, 452
+  orig: 152, 452
+  offset: 0, 0
+  index: -1
+mai dai sau trai
+  rotate: true
+  xy: 1611, 1865
+  size: 158, 333
+  orig: 158, 333
+  offset: 0, 0
+  index: -1
+mai dai trai
+  rotate: true
+  xy: 1611, 1788
+  size: 75, 235
+  orig: 75, 235
+  offset: 0, 0
+  index: -1
+mai phai
+  rotate: true
+  xy: 1185, 1803
+  size: 220, 424
+  orig: 220, 424
+  offset: 0, 0
+  index: -1
+mai trai
+  rotate: false
+  xy: 2, 14
+  size: 183, 456
+  orig: 183, 456
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 792, 1641
+  size: 391, 382
+  orig: 391, 382
+  offset: 0, 0
+  index: -1
+mat phai
+  rotate: false
+  xy: 1546, 1617
+  size: 209, 169
+  orig: 209, 169
+  offset: 0, 0
+  index: -1
+mat trai
+  rotate: false
+  xy: 1757, 1626
+  size: 158, 160
+  orig: 158, 160
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 469, 717
+  size: 81, 133
+  orig: 81, 133
+  offset: 0, 0
+  index: -1
+mouth 1
+  rotate: false
+  xy: 446, 531
+  size: 77, 109
+  orig: 77, 109
+  offset: 0, 0
+  index: -1
+nguc
+  rotate: true
+  xy: 804, 955
+  size: 227, 158
+  orig: 227, 158
+  offset: 0, 0
+  index: -1
+no
+  rotate: false
+  xy: 2, 472
+  size: 442, 288
+  orig: 442, 288
+  offset: 0, 0
+  index: -1
+tap de
+  rotate: false
+  xy: 1185, 1655
+  size: 359, 146
+  orig: 359, 146
+  offset: 0, 0
+  index: -1
+tay phai
+  rotate: true
+  xy: 804, 817
+  size: 136, 147
+  orig: 136, 147
+  offset: 0, 0
+  index: -1
+tay trai
+  rotate: false
+  xy: 446, 642
+  size: 124, 73
+  orig: 124, 73
+  offset: 0, 0
+  index: -1
+toc sau
+  rotate: false
+  xy: 2, 1157
+  size: 788, 866
+  orig: 788, 866
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 792, 1184
+  size: 455, 235
+  orig: 455, 235
+  offset: 0, 0
+  index: -1
+vay sau
+  rotate: true
+  xy: 469, 800
+  size: 355, 161
+  orig: 355, 161
+  offset: 0, 0
+  index: -1
